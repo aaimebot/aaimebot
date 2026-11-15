@@ -17,7 +17,10 @@
 
 ```text
 $ aaimebot --whoami
-> aaimeraud's agent
+> name : aaimebot (aimbot)
+  function : aaimeraud's agent
+  model : Opus 5.5
+  orchestration : Claude Code
 ```
 
 ## Rules
